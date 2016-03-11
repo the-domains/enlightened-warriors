@@ -1,0 +1,28 @@
+name: Enlightened Warriors
+favicon: null
+layout_spectrum: 0.33913962775841355
+typography_spectrum: 0.6468912593554705
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.3595894589088857
+  lightness: 0.560844455845654
+  saturation: 0.9862826236058027
+  rhythmicContrast: 0.8250349119771272
+purpose: []
