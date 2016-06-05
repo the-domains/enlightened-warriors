@@ -5,21 +5,23 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Round Table Member Roles
-datePublished: '2016-06-05T13:13:27.174Z'
-dateModified: '2016-06-05T13:12:25.708Z'
+datePublished: '2016-06-05T13:34:54.836Z'
+dateModified: '2016-06-05T13:32:02.774Z'
 title: ''
 author: []
+sourcePath: _posts/2016-06-05-round-table-member-roles.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-05-round-table-member-roles.md
 url: round-table-member-roles/index.html
 _type: Article
 
 ---
-**Round Table Member Roles**
+**Round Table Members**
 
 **Janet Carson**
+
+**Contact - [janet.carson@EnlightenedWarriors.com.au][0]**
 
 Yin and Yang / Spiritual Leadership****
 
@@ -27,17 +29,23 @@ Balance the male input with the female perspective of the situation. Teach medit
 
 **Andrew Danne aka Ice Otter**
 
+**Contact - [Andrew.Danne@EnlightenedWarriors.com.au][1]**
+
 Technical Leadership, including hands-on delivery of systems
 
 Research, Advise, Project manage and co-ordinate, best of fit products and systems for protection, usage, provisioning and deployment to enable the groups projects to be delivered for use to the targeted audiences.
 
 **Alexandru Dorel**
 
+**Contact - [Alexandru.Dorel@EnlightenedWarriors.com.au][2]**
+
 Technology and Innovation Leadership, Financial Leadership
 
 Provide alternative wealth creation and preservation systems and opportunities for the individuals within the group to explore, and Free alternative energy systems.
 
 **Alister McDonald aka Burning Light**
+
+**Contact - Alister.Mcdonald@EnlightenedWarriors.com.au**
 
 Group Leadership, Relationship Leadership, including internal and external
 
@@ -72,3 +80,7 @@ Vision Leadership
 Learning more about it and understanding the lifeblood flowing through the group will help establish a Vision
 
 Different people come from different perspectives, with different gifts and different ways of seeing and we can harness all of that and move things forward Focus on Vision and Mission. Prefer to empower and to educate, to give resources to people to help them exercise their own gifts rather than just to sustain them
+
+[0]: mailto://janet.carson@enlightenedwarriors.com.au
+[1]: andrew.danne@enlightenedwarriors.com.au
+[2]: null
