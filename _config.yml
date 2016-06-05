@@ -1,7 +1,7 @@
 name: Enlightened Warriors
 favicon: null
-layout_spectrum: 0.33913962775841355
-typography_spectrum: 0.6468912593554705
+layout_spectrum: 1
+typography_spectrum: 0
 title: Enlightened Warriors
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.3595894589088857
-  lightness: 0.560844455845654
-  saturation: 0.9862826236058027
-  rhythmicContrast: 0.8250349119771272
+  brandStrength: 0.5
+  lightness: 1
+  saturation: 0
+  rhythmicContrast: 1
 purpose: []
