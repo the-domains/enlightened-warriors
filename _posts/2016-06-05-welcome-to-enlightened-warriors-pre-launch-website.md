@@ -11,14 +11,14 @@ description: >-
   skilled in WordPress, please get in touch with me (Peaceful Lion aka Harsha
   Seneviratne). Till the official website for Enlightened Warriors is created,
   information about events and what's happening will reside here.
-datePublished: '2016-06-05T14:14:29.585Z'
-dateModified: '2016-06-05T14:14:10.196Z'
+datePublished: '2016-06-05T14:19:53.450Z'
+dateModified: '2016-06-05T14:19:38.904Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-05-welcome-to-enlightened-warriors-pre-launch-website.md
 authors: []
 publisher: null
-starred: false
+starred: true
 url: welcome-to-enlightened-warriors-pre-launch-website/index.html
 _type: Article
 
