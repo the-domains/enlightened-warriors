@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Secret Enlightened Warrior Project
-datePublished: '2016-06-05T13:48:42.746Z'
-dateModified: '2016-06-05T13:45:32.527Z'
+datePublished: '2016-06-05T14:04:45.920Z'
+dateModified: '2016-06-05T14:04:44.980Z'
 title: ''
 author: []
 authors: []
