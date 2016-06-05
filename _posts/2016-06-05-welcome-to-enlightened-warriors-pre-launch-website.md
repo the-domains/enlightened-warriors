@@ -1,0 +1,24 @@
+---
+inFeed: true
+hasPage: true
+inNav: false
+inLanguage: null
+keywords: []
+description: Welcome to Enlightened Warriors Pre-Launch Website.
+datePublished: '2016-06-05T12:57:45.542Z'
+dateModified: '2016-06-05T12:53:57.753Z'
+title: ''
+author: []
+authors: []
+publisher: null
+starred: false
+sourcePath: _posts/2016-06-05-welcome-to-enlightened-warriors-pre-launch-website.md
+url: welcome-to-enlightened-warriors-pre-launch-website/index.html
+_type: Article
+
+---
+Welcome to Enlightened Warriors Pre-Launch Website.
+
+As the name suggests this is a pre-launch site. The new website of the Enlightened Warriors is currently being planned out, however we need your support to create this. If you are skilled in WordPress, please get in touch with me (Peaceful Lion aka Harsha Seneviratne).
+
+Till the official website for Enlightened Warriors is created, information about events and what's happening will reside here.
