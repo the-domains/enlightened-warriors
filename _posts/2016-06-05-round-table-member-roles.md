@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Round Table Member Roles
-datePublished: '2016-06-05T13:34:54.836Z'
-dateModified: '2016-06-05T13:32:02.774Z'
+datePublished: '2016-06-05T14:23:41.924Z'
+dateModified: '2016-06-05T13:39:32.465Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-05-round-table-member-roles.md
@@ -17,6 +17,8 @@ url: round-table-member-roles/index.html
 _type: Article
 
 ---
+**General Enquiries** - If you have general enquiries about the Enlightened Warriors, please direct them to Megan Snoyer by emailing Megan.Snoyer@EnlightenedWarriors.com.au or  by calling +61 (0)405 688 420\.   
+
 **Round Table Members**
 
 **Janet Carson**
@@ -53,6 +55,8 @@ Call and chair Round Table meetings. Record and track actions to meet group obje
 
 **Ross Pepper**
 
+**Contact - [Ross.Pepper@EnlightenedWarriors.com.au][3]**
+
 Education Leadership, including personal development (Landmark) and training in use of software, Marketing Leadership, Author, Public Speaker, Business and Personal Growth Expert
 
 Since the first day Ross discovered personal development, the world was never going to be the same. Ross passionately believes learning the simple principles of life, should be a birth given right; whether from parents or schools -- Life's instruction manual should be in the hands of every man, woman and child from the day they are born.
@@ -61,11 +65,15 @@ Ross is a life-long learner, with a heavy focus on people and mindset. He loves 
 
 **Ruth Posterino**
 
+**Contact - [Ruth.Posterion@EnlightenedWarriors.com.au][4]**
+
 Spiritual Truth Leader
 
 Staying on track with your true self, Living your purpose, Living at cause, Reading intuition, Intuitive decision making.
 
 **Harsha Seneviratne aka Peaceful Lion**
+
+**Contact - [Harsha.Seneviratne@EnlightenedWarriors.com.au][5]**
 
 Visionary Creator
 
@@ -74,6 +82,8 @@ Harsha is a Visionary Creator who can see things from a high-level perspective. 
 Harsha is highly analytical in nature and also provides value directing the production of Video / Film and Social Media Networking. A Student of Life, and a Master of Learning, Harsha love delivering Training, Coaching and Connecting with People who value learning. Harsha understand that his nature is not in the detail, and values those who support him in this area.
 
 **Judi Venten**
+
+**Contact - [Judi.Venten@EnlightenedWarriors.com.au][6]**
 
 Vision Leadership
 
@@ -84,3 +94,7 @@ Different people come from different perspectives, with different gifts and diff
 [0]: mailto://janet.carson@enlightenedwarriors.com.au
 [1]: andrew.danne@enlightenedwarriors.com.au
 [2]: null
+[3]: mailto://Ross.Pepper@EnlightenedWarriors.com.au
+[4]: mailto://Ruth.Posterion@EnlightenedWarriors.com.au
+[5]: mailto://Harsha.Seneviratne@EnlightenedWarriors.com.au
+[6]: mailto://Judi.Venten@EnlightenedWarriors.com.au
