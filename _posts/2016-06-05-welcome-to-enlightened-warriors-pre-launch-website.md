@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Welcome to Enlightened Warriors Pre-Launch Website.
-datePublished: '2016-06-05T12:57:45.542Z'
-dateModified: '2016-06-05T12:53:57.753Z'
+datePublished: '2016-06-05T14:09:14.324Z'
+dateModified: '2016-06-05T14:09:11.954Z'
 title: ''
 author: []
+sourcePath: _posts/2016-06-05-welcome-to-enlightened-warriors-pre-launch-website.md
 authors: []
 publisher: null
-starred: false
-sourcePath: _posts/2016-06-05-welcome-to-enlightened-warriors-pre-launch-website.md
+starred: true
 url: welcome-to-enlightened-warriors-pre-launch-website/index.html
 _type: Article
 
